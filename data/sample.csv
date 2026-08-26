@@ -1,0 +1,11 @@
+id,fruit,color,crates,warehouse
+1,apple,red,42,north
+2,banana,yellow,17,north
+3,cherry,red,88,south
+4,damson,purple,5,east
+5,elderberry,black,23,south
+6,fig,purple,61,west
+7,grape,green,34,north
+8,honeydew,green,12,east
+9,kiwi,brown,77,west
+10,lemon,yellow,50,south
