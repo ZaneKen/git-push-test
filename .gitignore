@@ -1,0 +1,12 @@
+# Scratch
+tmp/
+*.log
+
+# Editor
+.vscode/
+*.swp
+
+# Secrets -- nothing here should ever hold one, but keep the habit
+.env
+*.id_rsa
+*.pem
